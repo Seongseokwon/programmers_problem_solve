@@ -1,0 +1,22 @@
+{
+  "name": "programmers_problem_solve",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/55185620/100850509-3d820700-34c7-11eb-84a4-a4b934f3d116.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seongseokwon/programmers_problem_solve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seongseokwon/programmers_problem_solve/issues"
+  },
+  "homepage": "https://github.com/Seongseokwon/programmers_problem_solve#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
